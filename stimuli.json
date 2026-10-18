@@ -1,0 +1,43 @@
+{
+  "disciplines": [
+    "mathematics",
+    "physics",
+    "chemistry",
+    "biology",
+    "neuroscience",
+    "cognitive science",
+    "psychology",
+    "sociology",
+    "anthropology",
+    "linguistics",
+    "philosophy",
+    "logic",
+    "computer science",
+    "statistics",
+    "economics",
+    "political science",
+    "ecology",
+    "history",
+    "electrical engineering",
+    "literary studies",
+    "biophysics",
+    "biochemistry",
+    "computational neuroscience",
+    "psycholinguistics"
+  ],
+  "templates": [
+    "A university department specializes in {discipline}.",
+    "A new journal publishes work in {discipline}.",
+    "The fellowship supports researchers working in {discipline}.",
+    "The interview concerns a career in {discipline}.",
+    "The award recognizes outstanding contributions to {discipline}.",
+    "The summer school offers advanced training in {discipline}.",
+    "The museum lecture explains ideas from {discipline}.",
+    "The bibliography lists important publications in {discipline}.",
+    "The final-year project draws on knowledge of {discipline}.",
+    "The advisor recommends a stronger background in {discipline}.",
+    "The student newsletter profiles someone studying {discipline}.",
+    "The survey asks participants about their familiarity with {discipline}."
+  ],
+  "suffix": "\nTopic:"
+}
